@@ -11,7 +11,7 @@
 ## 🔍 About Me
 
 - 🎓 Final-year Computer Science student  
-- 💾 Currently diving into **Full-stack Development**
+- 💾 **Full-stack Development** Developer
 - 🎯 Passionate about complete **Digital Solutions**, **Database Management** and **Problem Solving and New Ideas**
 - 🤝 Always open to collaborate on meaningful tech projects
 - 🧠 Learning every day, building real-world skills
